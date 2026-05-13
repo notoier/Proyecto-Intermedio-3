@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Imports/NatureStarterKit2/Scene/DemoSettings.lighting.meta
 guid: ed8acdac17bdb0f4aa1126dd56a94fa7
+=======
+guid: 2d4e8472d08c1c547b6e9969fb8607ea
+>>>>>>> f4f42e65cca888ea99d47ec032284b90f0636b7b:Assets/NatureStarterKit2/Scene/DemoSettings.lighting.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 4890085278179872738

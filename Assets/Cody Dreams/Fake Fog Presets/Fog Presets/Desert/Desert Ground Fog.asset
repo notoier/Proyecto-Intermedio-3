@@ -1,21 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5d624bc17f06f94dbf0ae24cb6de3d7, type: 3}
-  m_Name: Desert Ground Fog
-  m_EditorClassIdentifier: 
-  color: {r: 1, g: 0.9502696, b: 0, a: 0}
-  Density: 0.1
-  UseSceneFogColor: 0
-  FogHighet: 0
-  FogFallOff: 10
-  OverAllIntensity: 1
-  directionalLight: {fileID: 0}
+version https://git-lfs.github.com/spec/v1
+oid sha256:42f28e729a17d720b6261a71791e2d11caa3999e37ca63be9d6fbd1e11d86510
+size 571
